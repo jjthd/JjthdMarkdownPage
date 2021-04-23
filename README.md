@@ -2,7 +2,7 @@
 ### This is the event that I am working for my capstone project.
 
 
-![MOIMAGE](Missouri2021.jpg)
+![MOIMAGE](Missouri2021.JPG)
 [Missouri2021](https://missouri2021.org/)
 ### **Missorui 2021 Bicentennial Event**
 >  August 10, 2021, will mark the two hundredth anniversary of Missouri’s entry as the 24th state to enter the United States. A state with many different regional cultures, geographies, and industries, each Missouri community, county, and region has a story to tell about its people, their history, their commerce, and their culture. By celebrating the accomplishments and diversity of all these regions, we help create a better understanding of our one Missouri and the ties that bind us together.Under the Missouri 2021 banner, the State Historical Society of Missouri is committed to coordinating a truly statewide commemoration that incorporates both rural and urban communities in projects, programs, and events that contribute to a better shared understanding of the State’s geographic and cultural diversity as well as the similarities that bring us together as Missourians.
