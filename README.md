@@ -1,6 +1,6 @@
 # Game
 ### One of my favourite hobby is playing computer games.
-
+[HOME]Go Back to Homepage(https://github.com/jjthd/JjthdMarkdownPage/blob/main/README.md)
 ![Lost Ark Illust](LostArk.jpg)
 
 ### **Lost Ark**
