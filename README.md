@@ -4,7 +4,7 @@
 
 [Game](https://github.com/jjthd/JjthdMarkdownPage/blob/SecondInterest/README.md)
 
-[Missouri bicentennial Event](https://lostark.game.onstove.com/Library/Tip/Views/123458?page=1&libraryStatusType=0&librarySearchCategory=18&searchtype=0&searchtext=&ordertype=latest&LibraryQaAnswerType=None&UserPageType=0)
+[Missouri bicentennial Event](https://github.com/jjthd/JjthdMarkdownPage/blob/FirstInterest/README.md)
 
 
 
